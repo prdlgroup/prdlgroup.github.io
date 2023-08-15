@@ -1,3 +1,5 @@
+## Pattern Recognition and Deep Learning (PRDL) Reading Group
+
 ## Objectives
 * Discussing State-oF-the-Art Deep Learning Research Papers
 * Finding open-research and Answering open-research problems
@@ -18,3 +20,5 @@ We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 * Track 8: **Multi-Modal: Sensors and Modalities**
 * Track 9: **Applications: Medical Informatics, Biometrics, Remote Sensing etc**
 
+## Program
+We plan to cover state-of-the-art papers 
