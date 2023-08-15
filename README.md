@@ -1,4 +1,4 @@
-# Pattern Recognition and Deep Learning (PRDL) Reading Group
+# PRDL Reading Group
 
 # Objectives
 * Discussing State-of-the-Art Deep Learning Research Papers
@@ -20,6 +20,9 @@ We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 * Track 7: **Learning Paradigms: Few-Shot, Open-Set, Zero-Shot, Semi-Supervised, Long-Tailed, Multi-Task**
 * Track 8: **Multi-Modal: Sensors and Modalities**
 * Track 9: **Applications: Medical Informatics, Biometrics, Remote Sensing etc**
+
+Some of the planned papers:
+1) 
 
 # Program
 Our target is to cover maximum papers in the following domain within 12 months and then keep on repeating the cycle. Participants are themseleves the organizers.
@@ -48,8 +51,10 @@ Coming Soon
      * Concisive but Exhaustive session
      * Having slides for presentation is a plus but not mandatory
      * Booking a slot 1 week prior
+* We expect a member to have adequate exposure to the deep-learning, hence we will do initial screening based on your profile.
 
 # Join the Group
 Fill the form to join the group!!
-* Link for Joining the Group:
-* Link for Hosting a Session/Leading a Track:
+* Link for Joining the Group: https://forms.gle/eMz9DW8YNzw2ehvDA
+* Link for Hosting a Session: https://forms.gle/MKKjTc2ETNnWF9SM6
+* Link for Leading a Track:  
