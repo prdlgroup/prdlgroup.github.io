@@ -1,5 +1,7 @@
 # PRDL Reading Group
 
+---
+
 # Objectives
 * Discussing State-of-the-Art Deep Learning Research Papers
 * Finding open-research questions and gaps 
