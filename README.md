@@ -35,9 +35,17 @@ Coming Soon
 # Previous Sessions
 Coming Soon
 
-# Join the Group
-Fill in the form to join the group!!
-Link: 
-
 # Guidelines
-Coming Soon
+* Any member can lead a track or host a session. Multiple members can do the same jointly.
+* **If leading a track**. Reponsibilities:
+    * Cover those papers/sub-topics which exhaustively cover the track
+    * Suggest/Invite speakers for the same
+* **If hosting a session**. Responsibilities:
+     * Concisive but Exhaustive session
+     * Having slides for presentation is a plus but not mandatory
+     * Booking a slot 1 week prior
+
+# Join the Group
+Fill the form to join the group!!
+* Link for Joining the Group:
+* Link for Hosting a Session/Leading a Track:
