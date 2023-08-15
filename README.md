@@ -21,8 +21,11 @@ We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 * Track 8: **Multi-Modal: Sensors and Modalities**
 * Track 9: **Applications: Medical Informatics, Biometrics, Remote Sensing etc**
 
-Some of the planned papers:
-1) 
+Some of the eagerly planned papers:
+1. Nerf: Representing scenes as neural radiance fields for view synthesis(https://dl.acm.org/doi/pdf/10.1145/3503250)
+2. Low-Resource Adaptation for Personalized Co-Speech Gesture Generation(https://openaccess.thecvf.com/content/CVPR2022/papers/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.pdf)
+3. A Closer Look at Smoothness in Domain Adversarial Training(https://proceedings.mlr.press/v162/rangwani22a/rangwani22a.pdf)
+4. Disentangling Writer and Character Styles for Handwriting Generation(https://openaccess.thecvf.com/content/CVPR2023/papers/Dai_Disentangling_Writer_and_Character_Styles_for_Handwriting_Generation_CVPR_2023_paper.pdf)
 
 # Program
 Our target is to cover maximum papers in the following domain within 12 months and then keep on repeating the cycle. Participants are themseleves the organizers.
