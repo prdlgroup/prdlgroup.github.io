@@ -2,7 +2,7 @@
 
 # Objectives
 * Discussing State-of-the-Art Deep Learning Research Papers
-* Finding open-research and Answering open-research problems
+* Finding open-research questions and gaps 
 * Disseminating Research
 * International Link-Building, Networking and Collaborations
 
