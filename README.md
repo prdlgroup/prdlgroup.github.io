@@ -1,13 +1,14 @@
-## Pattern Recognition and Deep Learning (PRDL) Reading Group
+# Pattern Recognition and Deep Learning (PRDL) Reading Group
 
-## Objectives
+# Objectives
 * Discussing State-oF-the-Art Deep Learning Research Papers
 * Finding open-research and Answering open-research problems
 * Disseminating Research
 * International Link-Building, Networking and Collaborations
 
-## Tracks 
+***
 
+# Tracks 
 We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 
 * Track 1: **Humans: Face, Body, Pose, Actions, Gestures, Emotions**
@@ -20,5 +21,14 @@ We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 * Track 8: **Multi-Modal: Sensors and Modalities**
 * Track 9: **Applications: Medical Informatics, Biometrics, Remote Sensing etc**
 
-## Program
-We plan to cover state-of-the-art papers 
+# Program
+Our target is to cover maximum papers in the following domain within 12 months and then keep on repeating the cycle
+* Weekly 1 Sesssion + 1 Session (with invited speaker) every fortnight = 6 Sessions Monthly
+* Via 12*6=72 Sessions, i.e., 8 Sessions for each track we will cover the most
+* Timings: **TBD**
+* Venue: Offline: Multimedia Lab, Block-II, EE Dept., IIT Delhi, Online: 
+
+# Upcoming Sessions
+Coming Soon
+
+# Guidelines
