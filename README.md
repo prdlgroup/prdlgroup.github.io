@@ -31,10 +31,10 @@ Some of the eagerly planned papers:
 
 # Program
 Our target is to cover maximum papers in the following domain within 12 months and then keep on repeating the cycle. Participants are themseleves the organizers.
-* Weekly 1 Sesssion (60-90 min) + 1 Session (with invited speaker and 90-120 min) every fortnight = 6 Sessions Monthly
-* Via 12*6=72 Sessions, i.e., 8 Sessions for each track we will cover the most
+* Weekly 1 Sesssion (60-90 min) = 4 Sessions Monthly
+* Via 12*4=48 Sessions, i.e., 5-6 Sessions for each track we will cover the most
 * Timings: **TBD**
-* Venue: Offline: Multimedia Lab, Block-II, EE Dept., IIT Delhi, Online: 
+* Venue: Offline: Multimedia Lab, Block-II, EE Dept., IIT Delhi, Online: **TBD** 
 * Our first session kicks-off on **31st August'23**
 
 ---
@@ -47,7 +47,7 @@ Coming Soon
 | Date | Topic/Paper | Presented By | Link |
 | ---- | ----------- | ------------ | ---- |
 | 28/11/22 | [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://proceedings.neurips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf) | M. Rupesh Kumar | https://csciitd-my.sharepoint.com/:v:/g/personal/eey217512_iitd_ac_in/EY1qXVyEXxNElvS-7CJkW-gBi7P1u8W29LkBRo8uQxH9_g | 
-
+| 28/11/22 | [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://proceedings.neurips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf) | M. Rupesh Kumar | https://csciitd-my.sharepoint.com/:v:/g/personal/eey217512_iitd_ac_in/EY1qXVyEXxNElvS-7CJkW-gBi7P1u8W29LkBRo8uQxH9_g | 
 ---
 
 # Guidelines
