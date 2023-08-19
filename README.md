@@ -43,7 +43,10 @@ Our target is to cover maximum papers in the following domain within 12 months a
 Coming Soon
 
 # Previous Sessions
-Coming Soon
+
+| Date | Topic/Paper | Presented By | Link |
+| ---- | ----------- | ------------ | ---- |
+| 28/11/22 | [Fixmatch: Simplifying semi-supervised learning with consistency and confidence](https://proceedings.neurips.cc/paper/2020/file/06964dce9addb1c5cb5d6e3d9838f733-Paper.pdf) | M. Rupesh Kumar | https://csciitd-my.sharepoint.com/:v:/g/personal/eey217512_iitd_ac_in/EY1qXVyEXxNElvS-7CJkW-gBi7P1u8W29LkBRo8uQxH9_g | 
 
 ---
 
