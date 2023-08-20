@@ -61,8 +61,6 @@ Coming Soon
 | 29/03/23 | [RGB-D Face Recognition with Identity Style Disentanglement and Depth Augmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10011574) | Aman Verma | https://csciitd-my.sharepoint.com/:v:/g/personal/eey217512_iitd_ac_in/ESiSXffM9X5MsBSjgKaVYH4Bz59-StINFY5aALmpWuPQ_A |
 | 05/04/23 | [Saliency Regularized Deep Multi-Task Learning](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442) | M. Rupesh Kumar | https://csciitd-my.sharepoint.com/:v:/g/personal/eey217512_iitd_ac_in/EaXcLmw2hKtOrUMuCjx3qfMB3EaJahGjmEGkYBIna3WYPg |
 
-
- 
 ---
 
 # Guidelines
