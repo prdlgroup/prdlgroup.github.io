@@ -76,6 +76,6 @@ Coming Soon
 
 # Join the Group
 Fill the form to join the group!!
-* Link for Joining the Group: https://forms.gle/eMz9DW8YNzw2ehvDA
-* Link for Hosting a Session: https://forms.gle/MKKjTc2ETNnWF9SM6
-* Link for Leading a Track: https://forms.gle/NCQpaZYDQohifbo29
+* [Link for Joining the Group](https://forms.gle/eMz9DW8YNzw2ehvDA)
+* [Link for Hosting a Session](https://forms.gle/MKKjTc2ETNnWF9SM6)
+* [Link for Leading a Track](https://forms.gle/NCQpaZYDQohifbo29)
