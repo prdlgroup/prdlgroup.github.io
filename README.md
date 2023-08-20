@@ -19,7 +19,7 @@ We have sub-divivded the field under exclusive and exhaustive 9 tracks.
 * Track 4: **Theoretical ML: Theoretics, Convergence, Optimization, Generalization, NTKs, Expressivity**
 * Track 5: **Adversarial Learning: GANs, Adversarial Attacks, Adversarial Robustness, Adaptaion**
 * Track 6: **Responsible AI: Fairness, Bias, Ethics, Transparency, AI Safety**
-* Track 7: **Learning Paradigms: Few-Shot, Open-Set, Zero-Shot, Semi-Supervised, Long-Tailed, Multi-Task**
+* Track 7: **Learning Paradigms: Few-Shot, Open-Set, Zero-Shot, Semi-Supervised, Out-of-Distribution Learning, Long-Tailed, Multi-Task**
 * Track 8: **Multi-Modal: Sensors and Modalities**
 * Track 9: **Applications: Medical Informatics, Biometrics, Remote Sensing etc**
 
